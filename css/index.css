@@ -1,0 +1,326 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+header{
+	width: 100%;
+	height: 0.53rem;
+	background: #212121;
+}
+.head-left{
+	width: 2rem;
+	height: 0.53rem;
+	margin-left: 0.2rem;
+	float: left;
+}
+/* 设置iconfont icon-360logo属性，相当于设置字体 */
+.head-left i{
+	font-size: 0.3rem;
+	color: white;
+	float: left;
+	margin-top: 0.1rem;
+}
+.text1{
+	width: 1.4rem;
+	height: 0.31rem;
+    font-size: 0.3rem;
+    color: white;
+    line-height: 0.31rem;
+    text-align: center;
+    float: left;
+    margin-top: 0.1rem;
+}
+.text1 span{
+	font-weight: bold;
+}
+.head-right{
+	width: 0.53rem;
+	height: 0.53rem;
+    float: right;
+}
+.head-right i{
+	margin-top: 0.14rem;
+	margin-left: 0.08rem;
+	font-size: 0.26rem;
+	color: #585858;
+	float: left;
+}
+.banner{
+	width: 100%;
+	height: 5.63rem;
+}
+.swiper-container{
+	width: 100%;
+	height: 5.63rem;
+}
+.img-list{
+	width: 100%;
+	height: auto;
+}
+.img-list li{
+	background: black;
+	width: 100%;
+	height: 2.5rem;
+	border-bottom: 0.01rem solid #fff;
+}
+.img-list li a{
+	display: block;
+	width: 100%;
+	height: 2.5rem;
+	background-size: cover;
+	text-decoration: none;
+}
+.list1{
+	background: url('../img/tu1.jpg') no-repeat center;
+	overflow: hidden;
+}
+.list1 h1{
+	width: 1.49rem;
+	height: 0.19rem;
+	font-size:0.19rem;
+	font-weight: normal;
+	color: #666666;
+	margin: 0 auto;
+	margin-top: 0.27rem;
+}
+.list1 h2{
+	width: 1rem;
+	height: 0.19rem;
+	font-size:0.19rem;
+	font-weight: normal;
+	color: #666666;
+	margin: 0 auto;
+	margin-top: 0.08rem;
+}
+.list2{
+	background: url('../img/tu2.jpg') no-repeat center;
+	overflow: hidden;
+}
+.list2 h1{
+	width: 1.6rem;
+	height: 0.2rem;
+	font-size:0.2rem;
+	font-weight: normal;
+	color: #666666;
+	margin: 0 auto;
+	margin-top: 0.25rem;
+}
+.list2 h2{
+	width: 1.22rem;
+	height: 0.15rem;
+	font-size:0.15rem;
+	font-weight: normal;
+	color: #666666;
+	margin: 0 auto;
+	margin-top: 0.09rem;
+}
+.list3{
+	background: url('../img/tu3.jpg') no-repeat center;
+	overflow: hidden;
+
+}
+.list3 h1{
+	width: 1rem;
+	height: 0.2rem;
+	font-size:0.2rem;
+	font-weight: normal;
+	color: #666666;
+	margin: 0 auto;
+	margin-top: 0.25rem;
+}
+.list3 h2{
+	width: 1.05rem;
+	height: 0.15rem;
+	font-size:0.15rem;
+	font-weight: normal;
+	color: #666666;
+	margin: 0 auto;
+	margin-top: 0.09rem;
+}
+.list4{
+	background: url('../img/tu4.jpg') no-repeat center;
+	overflow: hidden;
+}
+.list4 h1{
+	width: 1.2rem;
+	height: 0.2rem;
+	font-size:0.2rem;
+	font-weight: normal;
+	color: #666666;
+	margin: 0 auto;
+	margin-top: 0.25rem;
+}
+.list4 h2{
+	width: 1.8rem;
+	height: 0.15rem;
+	font-size:0.15rem;
+	font-weight: normal;
+	color: #666666;
+	margin: 0 auto;
+	margin-top: 0.09rem;
+}
+.foot{
+	width: 100%;
+	height: 7rem;
+	background: #F9F9F9;
+}
+.bottom1{
+	width: 3.61rem;
+	height: 1.73rem;
+	/* background: green; */
+	margin: 0 auto;
+
+}
+.bottom1 a{
+	display: block;
+}
+.bottom1-1{
+	width: 100%;
+	height: 0.37rem;
+	margin-top: 0.2rem;
+	border-bottom: 1px solid #7c6666;
+}
+.btext1{
+	width: 0.64rem;
+	height: 0.37rem;
+	font-size: 0.16rem;
+	color: #7c6666;
+	line-height: 0.37rem;
+	float: left;
+}
+.jia{
+	font-size: 0.3rem;
+	color: #7c6666;
+	/* margin-top: 0.035rem; */
+	float: right;
+}
+.bottom1-2{
+	width: 100%;
+	height: 0.37rem;
+	margin-top: 0.066rem;
+	/* margin-top: 0.2rem; */
+	border-bottom: 1px solid #7c6666;
+}
+.btext2{
+	width: 0.64rem;
+	height: 0.37rem;
+	font-size: 0.16rem;
+	color: #7c6666;
+	line-height: 0.37rem;
+	float: left;
+}.bottom1-3{
+	width: 100%;
+	height: 0.37rem;
+	margin-top: 0.066rem;
+	/* margin-top: 0.2rem; */
+	border-bottom: 1px solid #7c6666;
+}
+.btext3{
+	width: 0.64rem;
+	height: 0.37rem;
+	font-size: 0.16rem;
+	color: #7c6666;
+	line-height: 0.37rem;
+	float: left;
+}.bottom1-4{
+	width: 100%;
+	height: 0.37rem;
+	margin-top: 0.066rem;
+	border-bottom: 1px solid #7c6666;
+}
+.btext4{
+	width: 0.64rem;
+	height: 0.37rem;
+	font-size: 0.16rem;
+	color: #7c6666;
+	line-height: 0.37rem;
+	float: left;
+}
+.bottom2{
+	width: 100%;
+	height: 1.27rem;
+	/* background: red; */
+	border-bottom: 1px solid #7c6666;
+	overflow: hidden;
+}
+.bottom2-1{
+	width: 1.12rem;
+	height: 0.26rem;
+	margin: 0 auto;
+	margin-top: 0.2rem;
+	font-size: 0.14rem;
+	font-weight: bold;
+	color: #333333;
+}
+.bottom2-2{
+	width: 1.4rem;
+	height: 0.23rem;
+	margin: 0 auto;
+	/* margin-top: 0.2rem; */
+	font-size: 0.11rem;
+	color: #333333;
+}.bottom2-3{
+	width: 1.5rem;
+	height: 0.23rem;
+	margin: 0 auto;
+	/* margin-top: 0.2rem; */
+	font-size: 0.11rem;
+	color: #333333;
+}
+.bottom3{
+	width: 3.61rem;
+	height: 1.43rem;
+	/* background: red; */
+	margin: 0 auto;
+	overflow: hidden;
+}
+.bottom3-1{
+	width: 1.07rem;
+	height: 0.19rem;
+	font-size: 0.11rem;
+	color: #aeaeac;
+	margin-top: 0.14rem;
+	float: left;
+}.bottom3-2{
+	width: 3rem;
+	height: 0.19rem;
+	font-size: 0.11rem;
+	color: #aeaeac;
+	/* margin-top: 0.14rem; */
+	float: left;
+}.bottom3-3{
+	width: 100%;
+	height: 0.19rem;
+	font-size: 0.11rem;
+	color: #aeaeac;
+	/* margin-top: 0.14rem; */
+	float: left;
+}
+.logoarea{
+	width: 1.8rem;
+	height: 0.36rem;
+	/* background: green; */
+	margin-top: 0.78rem;
+}
+.logoarea i{
+	font-size: 0.3rem;
+	color: #AAAAAA;
+	float: left;
+	/* margin-top: 0.1rem; */
+}
+.logoarea i:nth-child(2){
+	margin-left: 0.15rem;
+}
+.logoarea a{
+	display: block;
+	width: 0.36rem;
+	height: 0.36rem;
+	float: left;
+	margin-left: 0.15rem;
+}
+.logoarea a img{
+	display: block;
+	width: 0.36rem;
+	height: 0.36rem;
+}

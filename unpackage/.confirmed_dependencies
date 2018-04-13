@@ -1,0 +1,19 @@
+{
+  "index.html": {
+    "resources": [
+      "css/index.css",
+      "img/tu3.jpg",
+      "img/lunbo3.png",
+      "js/swiper-4.1.6.min (1).js",
+      "css/swiper-4.1.6.min.css",
+      "img/3601_65.png",
+      "img/lunbo1.png",
+      "img/tu2.jpg",
+      "img/tu4.jpg",
+      "js/rem.js",
+      "img/lunbo2.png",
+      "img/tu1.jpg",
+      "img/3601_65-67.png"
+    ]
+  }
+}
